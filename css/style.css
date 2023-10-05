@@ -1,0 +1,10 @@
+body{
+    width: 75%;
+    margin: 0 auto;
+}
+form{
+    padding: 1em;
+}
+.w-450{
+    width: 450px;
+}
